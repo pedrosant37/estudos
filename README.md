@@ -4,7 +4,7 @@ Nesse repositório eu documento meu progresso nos estudos do campo da programaç
 
 ## Linha do Tempo:
 
-- Maio/2025(https://github.com/pedrosant37/estudos/blob/main/README.md#maio2025)
+- [Maio/2025](https://github.com/pedrosant37/estudos/blob/main/README.md#maio2025)
 
 
 ## Maio/2025
