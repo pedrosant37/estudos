@@ -9,7 +9,3 @@ Também estou estudando matemática, mas por aqui, só a parte da programação.
 ## Linha do Tempo:
 
 - [Maio/2025](https://github.com/pedrosant37/estudos/blob/main/README.md#maio2025)
-
-
-### Maio/2025
-- Dia 29: Hoje eu criei esse repositório e aprendi um pouco sobre como fazer funções recursivas, ainda não dominei completamente, mas estou no caminho. Amanhã irei assitir a aula de algoritmos de ordenamento(sorting) e depois, exercitar.
