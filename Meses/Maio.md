@@ -1,3 +1,4 @@
 # Maio/2025
-- Dia 29: Hoje eu criei esse repositório e aprendi um pouco sobre como fazer funções recursivas, ainda não dominei completamente, mas estou no caminho. Amanhã irei assitir a aula de algoritmos de ordenamento(sorting) e depois, exercitar.
+- Dia 29: Hoje criei esse repositório e aprendi um pouco sobre como fazer funções recursivas, ainda não dominei completamente, mas estou no caminho. Amanhã irei assitir a aula de algoritmos de ordenamento(sorting) e depois, exercitar.
+- Dia 30: Estudei sobre os algoritmos de Ordenamento e aprendi a implementar o BubbleSort, um dos algoritmos mais simples, depois disso, resolvi aproveitar que aprendi sobre recursão ontem e fiz alguns algoritmos que percorrem uma árvore binária, porque tinha visto no site de visualização de algoritmos e achei bacana. Também adicionei os [exercicios de estrutura de dados]() que tinha feito antes de criar esse repositório. Amanhã irei continuar estudando algoritmos de ordenação.
 
