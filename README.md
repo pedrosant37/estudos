@@ -5,7 +5,6 @@ No momento da criação desse repositório, estou a +/- 2 meses estudando. No pr
 
 Também estou estudando matemática, mas por aqui, só a parte da programação.
 
-
 ## Linha do Tempo:
 
-- [Maio/2025](https://github.com/pedrosant37/estudos/tree/main/Exercicios%20Estrutura%20de%20dados%20e%20Algoritmos)
+- [Maio/2025](https://github.com/pedrosant37/estudos/blob/main/Meses/Maio.md)
